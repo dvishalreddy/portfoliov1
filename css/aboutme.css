@@ -1,0 +1,25 @@
+body{
+    background-image: url(../images/luke-chesser-pJadQetzTkI-unsplash.jpg);
+    background-size: cover;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+}
+.navbar-brand{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+}
+#about h2{
+    text-align: center;
+}
+#about p{
+    font-size: large;
+    padding-top: 30px;
+}
+#about{
+    margin-top: 100px;
+    padding:0 20px
+}
+#about a{
+    color: #ffda61;
+}
