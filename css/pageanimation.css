@@ -1,4 +1,4 @@
-html{
+body{
     animation: transitionIn 2s;
 }
 @keyframes transitionIn{
